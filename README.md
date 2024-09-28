@@ -1,6 +1,6 @@
 @FacuBustamaante
-- 📫 How to reach me
-- facundombustamante@gmail.com
+## How to reach me
+### facundombustamante@gmail.com
 
 <!---
 FacuBustamaante/FacuBustamaante is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
