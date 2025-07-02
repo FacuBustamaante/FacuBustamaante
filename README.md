@@ -1,5 +1,5 @@
 <h3>Facundo Bustamante</h3>
-<p>Frontend Developer from Argentina</p>
+<p>FullStack Developer from Argentina</p>
 
 - 🌱 I’m currently working with **Java** and **Spring Boot**
 
