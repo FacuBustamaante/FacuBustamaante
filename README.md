@@ -1,5 +1,6 @@
 <h3>Facundo Bustamante</h3>
 <p>FullStack Developer from Argentina</p>
+<p>Java | Spring Boot | JavaScript | React</p>
 
 - 🌱 I’m currently working with **Java** and **Spring Boot**
 
