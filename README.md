@@ -1,5 +1,5 @@
-<h3>Facundo Bustamante</h3>
-<p>FullStack Developer from Argentina</p>
+<h2>Facundo Bustamante</h2>
+<h3>FullStack Developer from Argentina</h3>
 <p><b>CONOCIMIENTOS:</b></p>
 <p>Java | Spring Boot | Spring Security | JWT & OAuth2</p>
 <p>React | JavaScript | Vite</p>
