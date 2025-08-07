@@ -1,6 +1,6 @@
 <h3>Facundo Bustamante</h3>
 <p>FullStack Developer from Argentina</p>
-<p><b>Conocimientos:</b></p>
+<p><b>CONOCIMIENTOS:</b></p>
 <p>Java | Spring Boot | Spring Security | JWT & OAuth2</p>
 <p>React | JavaScript | Vite</p>
 <p>MySQL | JPA | Hibernate</p>
