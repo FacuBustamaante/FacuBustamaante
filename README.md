@@ -3,7 +3,7 @@
 <p><b>CONOCIMIENTOS:</b></p>
 <p>Java | Spring Boot | Spring Security | JWT & OAuth2</p>
 <p>React | JavaScript | Vite</p>
-<p>PostgreSQL | JPA | Hibernate</p>
+<p>PostgreSQL | JPA | Hibernate | MongoDB</p>
 
 - 🌱 I’m currently working with **Java** and **Spring Boot**
 
