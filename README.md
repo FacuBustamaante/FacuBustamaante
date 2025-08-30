@@ -3,7 +3,7 @@
 - 🌱 I’m currently working with React and TypeScript
 
 - 📫 How to reach me **facundombustamante@gmail.com**
-- My portfolio <a href="https://facundobustamante.netlify.app" target="blank">Visit</a> 🔗
+- My portfolio <a href="https://facundobustamante.netlify.app" target="blank">Visit</a> 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
