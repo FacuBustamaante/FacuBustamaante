@@ -2,6 +2,7 @@
 <h3>FullStack Developer from Argentina</h3>
 <p><b>CONOCIMIENTOS:</b></p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java" width="80" height="80" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="80" height="80"/>
 <p>Java | Spring Boot | Spring Security | JWT & OAuth2</p>
 <p>React | JavaScript | Vite</p>
 <p>PostgreSQL | JPA | Hibernate | MongoDB</p>
