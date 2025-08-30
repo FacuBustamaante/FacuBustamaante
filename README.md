@@ -1,6 +1,8 @@
 <h2>Facundo Bustamante</h2>
 <h3>FullStack Developer from Argentina</h3>
 <p><b>CONOCIMIENTOS:</b></p>
+
+<i class="devicon-java-plain-wordmark"></i>
 <p>Java | Spring Boot | Spring Security | JWT & OAuth2</p>
 <p>React | JavaScript | Vite</p>
 <p>PostgreSQL | JPA | Hibernate | MongoDB</p>
