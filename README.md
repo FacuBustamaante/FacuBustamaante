@@ -1,4 +1,4 @@
-<strong>Current Focus & Specialties</strong>
+<strong>Current Focus & Specialties</strong><br>
 My recent work is heavily centered around AI engineering and tool orchestration:
 
 <b>Model Context Protocol (MCP):</b> Developing integrations to expand the context and capabilities of language models, creating tools that securely connect AI with local databases and APIs.
