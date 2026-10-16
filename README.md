@@ -1,35 +1,26 @@
-<h1>Facundo Bustamante</h1>
-<h3>FullStack Developer from Argentina</h3>
-- 🌱 I’m currently working with React and TypeScript
+Current Focus & Specialties
+My recent work is heavily centered around AI engineering and tool orchestration:
 
-- 📫 How to reach me **facundombustamante@gmail.com**
-- My portfolio <a href="https://facubustamante.dev" target="_blank">Visit</a> 
+Model Context Protocol (MCP): Developing integrations to expand the context and capabilities of language models, creating tools that securely connect AI with local databases and APIs.
 
-<h3 align="left">Languages and Tools:</h3>
-<p>Frontend</p>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="react" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" width="40" height="40"/>
-</p>
-<p>Backend</p>
-<p align="left"> 
-<img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg" alt="mongodb" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/><img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="postgresql" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/><img src="https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg" alt="mysql" width="40" height="40"/> 
-</p>
-<p>Others</p>
-<p align="left">
-  
-  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  <img src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" alt="git" width="40" height="40"/>
-  
-</p>
+Claude & LLM Ecosystem: Implementing solutions based on Claude and OpenAI, optimizing prompts, and structuring responses for complex applications.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/facubustamantex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="facubustamantex" height="30" width="40" /></a>
-<a href="https://instagram.com/facubustamant.e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="facubustamant.e" height="30" width="40" /></a>
-</p>
+Harness & CI/CD: Using Harness for continuous delivery pipeline automation, ensuring fast and reliable cloud deployments.
 
+Skills Development: Creating and configuring custom "Skills" and tools to equip AI agents with specific capabilities and real-time action execution.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=facubustamaante&show_icons=true&locale=en&layout=compact" alt="facubustamaante" /></p>
+Tech Stack
 
+AI & Automation: MCP, Claude, OpenAI, n8n, Harness, Skills Development.
 
+Backend: Java, Spring Boot, Node.js.
+
+Frontend: JavaScript, TypeScript, React.
+
+Databases: MongoDB.
+
+DevOps & Environment: Docker, Linux (Ubuntu), Cloudflare Zero Trust.
+
+Contact
+facundombustamante@gmail.com
+<a href="https://facubustamante.netlify.app">Visit Portfolio ↗</a>
