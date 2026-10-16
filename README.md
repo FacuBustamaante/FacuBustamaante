@@ -1,6 +1,6 @@
-<strong>Current Focus & Specialties</strong><br>
-My recent work is heavily centered around AI engineering and tool orchestration:
-
+<h3>Current Focus & Specialties</h3><br>
+My recent work is heavily centered around AI engineering and tool orchestration:<br>
+<br>
 <b>Model Context Protocol (MCP):</b> Developing integrations to expand the context and capabilities of language models, creating tools that securely connect AI with local databases and APIs.
 
 <b>Claude & LLM Ecosystem:</b> Implementing solutions based on Claude and OpenAI, optimizing prompts, and structuring responses for complex applications.
@@ -9,7 +9,7 @@ My recent work is heavily centered around AI engineering and tool orchestration:
 
 <b>Skills Development:</b> Creating and configuring custom "Skills" and tools to equip AI agents with specific capabilities and real-time action execution.
 
-<strong>Tech Stack</strong>
+<h3>Tech Stack</h3>
 
 <b>AI & Automation:</b> MCP, Claude, OpenAI, n8n, Harness, Skills Development.
 
@@ -21,6 +21,6 @@ My recent work is heavily centered around AI engineering and tool orchestration:
 
 <b>DevOps & Environment:</b> Docker, Linux, Cloudflare Zero Trust, Bash scripting.
 
-<strong>Contact</strong>
-facundombustamante@gmail.com
+<h3>Contact</h3>
+facundombustamante@gmail.com<br>
 <a href="https://facubustamante.netlify.app">Visit Portfolio ↗</a>
