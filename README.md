@@ -3,7 +3,7 @@ My recent work is heavily centered around AI engineering and tool orchestration:
 <br>
 <b>Model Context Protocol (MCP):</b> Developing integrations to expand the context and capabilities of language models, creating tools that securely connect AI with local databases and APIs.
 
-<b>Claude & LLM Ecosystem:</b> Implementing solutions based on Claude and OpenAI, optimizing prompts, and structuring responses for complex applications.
+<b>Claude & LLM Ecosystem:</b> Implementing solutions based on Claude and OpenAI, SDD & TDD, and structuring responses for complex applications.
 
 <b>Harness & CI/CD:</b> Using Harness for continuous delivery pipeline automation, ensuring fast and reliable cloud deployments.
 
